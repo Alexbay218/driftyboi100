@@ -1,1 +1,1 @@
- g++ main.cpp -lwiringPi -o main
+ g++ ./src/main.cpp -lwiringPi -o ./bin/main
