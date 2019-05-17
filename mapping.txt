@@ -1,0 +1,56 @@
+Driftyboi100 Mapping
+====================
+
+2       3
+ 0-----0
+ |     |
+ |  ^  |
+ |  |  |
+ |     |
+ 0-----0
+1       4
+
+===================
+Wheel #1:
+  Encoder Pins:
+    Pin A: 3
+    Pin B: 2
+  Servo Pins:
+    IN3: 23
+    IN4: 18
+  Motor Pins:
+    IN1: 24
+    IN2: 22
+===================
+Wheel #2:
+  Encoder Pins:
+    Pin A: 5
+    Pin B: 4
+  Servo Pins:
+    IN3: 12
+    IN4: 19
+  Motor Pins:
+    IN1: 21
+    IN2: 26
+===================
+Wheel #3:
+  Encoder Pins:
+    Pin A: 7
+    Pin B: 6
+  Servo Pins:
+    IN3: 13
+    IN4: 7
+  Motor Pins:
+    IN1: 20
+    IN2: 6
+===================
+Wheel #4:
+  Encoder Pins:
+    Pin A: 9
+    Pin B: 8
+  Servo Pins:
+    IN3: 11
+    IN4: 8
+  Motor Pins:
+    IN1: 25
+    IN2: 9
